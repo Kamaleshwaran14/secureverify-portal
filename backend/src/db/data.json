@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Kamaleshwaran S",
+      "email": "admin@mploychek.com",
+      "password": "password123",
+      "role": "Admin",
+      "accessLevel": "Full Access",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": "General User",
+      "email": "user@mploychek.com",
+      "password": "password123",
+      "role": "General User",
+      "accessLevel": "Read Only",
+      "status": "Active"
+    },
+    {
+      "id": 1779536183230,
+      "name": "John",
+      "email": "john@gmail.com",
+      "password": "password123",
+      "role": "General User",
+      "accessLevel": "Read Only",
+      "status": "Active"
+    }
+  ],
+  "records": [
+    {
+      "id": 1,
+      "employeeName": "John Smith",
+      "verificationType": "Employment Check",
+      "status": "Verified",
+      "accessLevel": "Admin"
+    },
+    {
+      "id": 2,
+      "employeeName": "Sarah Johnson",
+      "verificationType": "Education Check",
+      "status": "Pending",
+      "accessLevel": "General User"
+    },
+    {
+      "id": 3,
+      "employeeName": "David Miller",
+      "verificationType": "Identity Check",
+      "status": "Verified",
+      "accessLevel": "Admin"
+    },
+    {
+      "id": 4,
+      "employeeName": "Emma Wilson",
+      "verificationType": "Address Verification",
+      "status": "Rejected",
+      "accessLevel": "General User"
+    }
+  ]
+}

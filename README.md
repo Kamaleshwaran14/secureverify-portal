@@ -54,6 +54,8 @@ cd frontend
 npm install
 ng serve
 
+---
+
 ## Run Backend
 
 ```bash

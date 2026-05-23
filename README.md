@@ -47,16 +47,16 @@ Role: General User
 
 ---
 
-## Run Frontend
+## Run Project
+
+Run Frontend
 
 ```bash
 cd frontend
 npm install
 ng serve
 
----
-
-## Run Backend
+Run Backend
 
 ```bash
 cd backend

@@ -207,8 +207,8 @@ type UserRole = 'General User' | 'Admin';
                 </p>
 
                 <div class="mt-3 space-y-1">
-                  <p>Admin: admin&#64;mploychek.com</p>
-                  <p>User: user&#64;mploychek.com</p>
+                  <p>Admin: admin&#64;gmail.com</p>
+                  <p>User: user&#64;gmail.com</p>
                   <p>Password: password123</p>
                 </div>
               </div>

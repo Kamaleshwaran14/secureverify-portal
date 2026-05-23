@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Kamaleshwaran S",
-      "email": "admin@mploychek.com",
+      "email": "admin@gmail.com",
       "password": "password123",
       "role": "Admin",
       "accessLevel": "Full Access",
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "name": "General User",
-      "email": "user@mploychek.com",
+      "email": "user@gmail.com",
       "password": "password123",
       "role": "General User",
       "accessLevel": "Read Only",

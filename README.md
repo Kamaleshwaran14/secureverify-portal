@@ -44,7 +44,7 @@ The project includes authentication, dashboard records, admin user management, R
 
 | Field | Value |
 |---|---|
-| User ID | admin@mploychek.com |
+| User ID | admin@gmail.com |
 | Password | password123 |
 | Role | Admin |
 
@@ -54,7 +54,7 @@ The project includes authentication, dashboard records, admin user management, R
 
 | Field | Value |
 |---|---|
-| User ID | user@mploychek.com |
+| User ID | user@gmail.com |
 | Password | password123 |
 | Role | General User |
 

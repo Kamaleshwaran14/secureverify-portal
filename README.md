@@ -53,3 +53,10 @@ Role: General User
 cd frontend
 npm install
 ng serve
+
+## Run Backend
+
+```bash
+cd backend
+npm install
+npm run dev
